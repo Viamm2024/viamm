@@ -1,0 +1,15 @@
+Flask==3.0.2
+keras==2.10.0
+Keras-Applications==1.0.8
+keras-efficientnets==0.1.7
+Keras-Preprocessing==1.1.2
+numpy==1.26.4
+Pillow==10.2.0
+werkzeug==3.0.1
+requests==2.31.0
+tensorflow-cpu==2.10.0
+scikit-learn==1.4.0
+matplotlib==3.8.2
+pandas==2.2.0
+gunicorn==21.2.0
+inference-sdk==0.18.0
